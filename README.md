@@ -16,11 +16,11 @@ I don't stop at just using tools — I dig into how they work under the hood, ma
 
 ## Current Projects
 
-- Building trading infrastructure, a search engine, and frameworks from scratch through `cluefin`, `cluefin-fsd`, `crescent`, and `summer-sandal` — validating core internals hands-on and documenting what I learn along the way.
+- Building trading infrastructure, a search engine, and frameworks from scratch through `cluefin`, `cluefin-dure`, `crescent`, and `summer-sandal` — validating core internals hands-on and documenting what I learn along the way.
 
 ## Open Source
 
 - **[cluefin](https://github.com/kgcrom/cluefin)** - Python-based financial toolkit for Korean market analysis and trading automation
-- **[cluefin-fsd](https://github.com/kgcrom/cluefin-fsd)** - TypeScript trading platform that unifies Korean Investment Securities APIs into a single interface
+- **[cluefin-dure](https://github.com/kgcrom/cluefin-dure)** - TypeScript trading platform that unifies Korean Investment Securities APIs into a single interface
 - **[crescent](https://github.com/kgcrom/crescent)** - Java-based search server built on Lucene + Spring Boot for learning and experimentation
 - **[summer-sandal](https://github.com/kgcrom/summer-sandal)** - Personal framework project reimplementing Spring Boot concepts in Kotlin to understand its internals
